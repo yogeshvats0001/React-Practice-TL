@@ -1,0 +1,31 @@
+{
+  "name": "react-practice-tl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yogeshvats0001/React-Practice-TL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yogeshvats0001/React-Practice-TL/issues"
+  },
+  "homepage": "https://github.com/yogeshvats0001/React-Practice-TL#readme",
+  "dependencies": {
+    "autoprefixer": "^10.4.19",
+    "parcel": "^2.12.0",
+    "postcss": "^8.4.38",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "tailwindcss": "^3.4.3"
+  },
+  "devDependencies": {
+    "process": "^0.11.10"
+  }
+}
